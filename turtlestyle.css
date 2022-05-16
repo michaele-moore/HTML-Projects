@@ -1,0 +1,21 @@
+img {height: 200px;
+width: 300px;
+border-style: solid;
+border-width: 1px;
+border-color: white;}
+.card {margin-left: 10px;
+border: 1px solid lightgrey;
+box-shadow:  5px 10px lightgrey;
+width: 300px;
+padding: 20px;
+font-size: 14pt;
+background: linear-gradient(to top left, rgb(81, 121, 196), rgb(31, 211, 211), rgb(122, 170, 122), rgb(231, 231, 203));
+}
+ul {list-style: none;
+padding: 5px;}
+span {font-weight: bold;}
+.container {
+border: 1px solid lightgrey;
+padding: 3px;
+margin-top: 15px;}
+.fact {font-style: italic;}
